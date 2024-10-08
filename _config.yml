@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "dark"
 # Site Settings
 locale                   : "en_US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Ming Hsiao"
+title                    : "Ming Hsiao(蕭明)"
 
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
@@ -114,7 +114,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ming Hsiao"
+  name             : "Ming Hsiao(蕭明)"
   avatar           : /IMG_6401.jpeg
   bio              : "Math master student"
   location         : "Taipei, Taiwan"
@@ -134,7 +134,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+       url: "https://minghsiao2001.github.io"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram-square"
       # url: "https://www.instagram.com/sun_moon_125/profilecard/?igsh=MWQ1ZGUxMzBkMA=="
