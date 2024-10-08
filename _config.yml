@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "dark"
 
 # Site Settings
-locale                   : "English"
+locale                   : "en_US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Ming Hsiao"
 
