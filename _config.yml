@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "dark"
 
 # Site Settings
-locale                   : "Taiwan"
+locale                   : ""
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Ming Hsiao"
 
@@ -122,7 +122,7 @@ author:
   links:
     - label: "Email"
       icon: "r12221002_at_ntu_dot_edu_dot_tw"
-      # url: "mailto:r12221002@ntu.edu.tw"
+       url: "mailto:r12221002@ntu.edu.tw"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -137,7 +137,7 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "sun_moon_125"
-      # url: "https://www.instagram.com/sun_moon_125/profilecard/?igsh=MWQ1ZGUxMzBkMA=="
+      url: "https://www.instagram.com/sun_moon_125/profilecard/?igsh=MWQ1ZGUxMzBkMA=="
 
 # Site Footer
 footer:
