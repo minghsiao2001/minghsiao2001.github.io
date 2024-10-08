@@ -119,7 +119,7 @@ author:
   bio              : "Math master student"
   location         : "Taipei, Taiwan"
   email            : "r12221002@ntu.edu.tw"
-  GitHub : ""
+  GitHub : "https://minghsiao2001.github.io"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -135,7 +135,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://minghsiao2001.github.io"
+       #url: "https://minghsiao2001.github.io"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram-square"
       # url: "https://www.instagram.com/sun_moon_125/profilecard/?igsh=MWQ1ZGUxMzBkMA=="
