@@ -12,12 +12,12 @@
 
 # theme                  : "Ming Hsiao Home Page"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : dark
+minimal_mistakes_skin    : "dark"
 
 # Site Settings
 locale                   : "Taiwan"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+title                    : "Ming Hsiao Home Page"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Ming Hsiao"
