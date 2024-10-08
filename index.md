@@ -23,4 +23,3 @@ TBD
 ## Scholarships and Awards
 - Undergraduates Student Outstanding Thesis Award(High Distinction Award)-The Mathematical Society of the Republic of China, 2024
 - Dean’s Award of College of Science-Natioanl Taiwan University, 2023
-
