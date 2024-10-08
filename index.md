@@ -1,6 +1,6 @@
 ---
 layout: home
-tilte: Welcome to my homepage!
+title: Welcome to my homepage!
 author_profile: true
 ---
 ## About Me
