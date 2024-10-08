@@ -11,11 +11,13 @@ I am now enjoying the areas of differential geometry, geometric analysis, and me
 TBD
 ## Publications and Preprints
 TBD
-## Invited talks
+## Invited Talks
 - Graduate Student Seminar Series-SLmath Institute, Oct 2024
 - 2024 Annual Meeting of Taiwanese Mathematical Society (Analysis & Optimization session)-National Chengchi University, Jan 2024
 -	2023 Symposium for Young Analysts-NCTS, Jun 2023
+	
 ## Notes
 TBD
+
 ## Scholarships and Awards
 TBD
