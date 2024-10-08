@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "dark"
 # Site Settings
 locale                   : "Taiwan"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Ming Hsiao Home Page"
+title                    : "Welcome to the Ming Hsiao Home Page!"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Ming Hsiao"
@@ -113,13 +113,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Ming Hsiao"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Math master student"
+  location         : "Taipei, Taiwan"
   email            :
   links:
-    - label: "Email"
+    - label: "r12221002_at_ntu_dot_edu_dot_tw"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
