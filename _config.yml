@@ -115,7 +115,7 @@ analytics:
 # Site Author
 author:
   name             : "Ming Hsiao"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /IMG_6401.jpeg
   bio              : "Math master student"
   location         : "Taipei, Taiwan"
   email            : "r12221002@ntu.edu.tw"
