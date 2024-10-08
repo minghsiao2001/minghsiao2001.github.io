@@ -120,9 +120,9 @@ author:
   location         : "Taipei, Taiwan"
   email            : "r12221002_at_ntu_dot_edu_dot_tw"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:r12221002@ntu.edu.tw"
+    - #label: "Email"
+      #icon: "fas fa-fw fa-envelope-square"
+       #url: "mailto:r12221002@ntu.edu.tw"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
