@@ -14,4 +14,4 @@ It's coming soon.
 ## Invited talks
 -	2023 Symposium for Young Analysts-NCTS, Jun 2023
 - 2024 Annual Meeting of Taiwanese Mathematical Society (Analysis & Optimization session)-National Chengchi University, Jan 2024
-%## Some notes
+## Notes
