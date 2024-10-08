@@ -9,6 +9,6 @@ permalink: /talks/
   - URL: https://2024tms.tms.org.tw/
   - Title: Hadamard product of random matrices and their limiting spectral distributions
 -	2023 Symposium for Young Analysts-NCTS, Jun 2023
-  - Symposium URL: https://ncts.ntu.edu.tw/events_2_detail.php?nid=395
-  - Title: Limit Theorem of Hadamard Product Random Matrices
+    - Symposium URL: https://ncts.ntu.edu.tw/events_2_detail.php?nid=395
+    - Title: Limit Theorem of Hadamard Product Random Matrices
   
