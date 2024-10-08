@@ -158,7 +158,7 @@ footer:
       icon: "fab fa-fw fa-bitbucket"
       # url:
     - label: "Instagram"
-      icon: "sun_moon_125"
+      icon: "fab fa-fw fa-instagram-square"
       url: "https://www.instagram.com/sun_moon_125/profilecard/?igsh=MWQ1ZGUxMzBkMA=="
 
 
