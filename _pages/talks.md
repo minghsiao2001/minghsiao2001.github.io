@@ -2,4 +2,4 @@
 title: "Invited talks"
 permalink: /talks/
 ---
-小名杯杯
+It's coming soon.
