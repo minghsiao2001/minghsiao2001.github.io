@@ -1,7 +1,8 @@
 # main links
 main:
   - title: "Homepage"
-    url: 
-  - title: "Sample Posts"
-  - title: "Sample Collections"
-  - title: "Sitemap"
+    url: / 
+  - title: "Papers and Preprints"
+    url: /publish/
+  - title: "Invited talks"
+    url: /talks/
