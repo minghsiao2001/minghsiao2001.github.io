@@ -1,5 +1,5 @@
 ---
 title: "Invited talks"
-Permalink: /talks/
+permalink: /talks/
 ---
 小名杯杯
