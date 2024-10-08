@@ -10,14 +10,15 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "Ming Hsiao Home Page"
+# theme                  : "Ming Hsiao's Home Page"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark"
 
 # Site Settings
 locale                   : "Taiwan"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Welcome to the Ming Hsiao Home Page!"
+title                    : "Ming Hsiao"
+
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Ming Hsiao"
