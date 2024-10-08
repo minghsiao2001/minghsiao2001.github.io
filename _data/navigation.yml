@@ -2,7 +2,9 @@
 main:
   - title: "Homepage"
     url: / 
+  <!-- 
   - title: "Papers and Preprints"
-    url: /publish/
+    url: /publish/ 
+  -->
   - title: "Invited talks"
     url: /talks/
