@@ -118,10 +118,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Math master student"
   location         : "Taipei, Taiwan"
-  email            :
+  email            : "r12221002_at_ntu_dot_edu_dot_tw"
+  Instagram : "sun_moon_125"
   links:
     - label: "Email"
-      icon: "r12221002_at_ntu_dot_edu_dot_tw"
+      icon: "fas fa-fw fa-envelope-square"
        url: "mailto:r12221002@ntu.edu.tw"
     - label: "Website"
       icon: "fas fa-fw fa-link"
