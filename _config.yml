@@ -118,12 +118,12 @@ author:
   avatar           : /IMG_6401.jpeg
   bio              : "Math master student"
   location         : "Taipei, Taiwan"
-  email            : "r12221002@ntu.edu.tw"
+  email            : "minghsiao0125@gmail.com"
   GitHub : "https://minghsiao2001.github.io"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       #url: "mailto:r12221002@ntu.edu.tw"
+       #url: "mailto:minghsiao0125@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
