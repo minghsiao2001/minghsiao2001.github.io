@@ -2,6 +2,9 @@
 title: "Invited talks"
 permalink: /talks/
 ---
+- **[NCTS Differential Geometry Seminar](https://www.slmath.org/seminars/28400/schedules/36657](https://ncts.ntu.edu.tw/events_1_detail.php?nid=2888)**-*NCTS*, Apr 2025 
+  - Gap Theorem on Locally Conformally Flat Manifold
+
 - **[Graduate Student Seminar Series](https://www.slmath.org/seminars/28400/schedules/36657)**-*SLmath Institute*, Oct 2024 [(Video)](https://vimeo.com/1025186992)
   - Title: Preservation of Killing Vector Fields under Ricci Flow
   - [Slide(revised version)](/Graduate_Student_Seminar___SLMath.pdf)
