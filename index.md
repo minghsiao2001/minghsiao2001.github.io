@@ -13,6 +13,7 @@ This is my [CV](/CV.pdf).
 <!--## Publications and Preprints
 TBD-->
 ## Invited Talks
+- **NCTS Differential Geometry Seminar**-*NCTS*, Apr 2024
 - **Graduate Student Seminar Series**-*SLmath Institute*, Oct 2024
 - **2024 Annual Meeting of Taiwanese Mathematical Society (Analysis & Optimization session)**-*National Chengchi University*, Jan 2024
 -	**2023 Symposium for Young Analysts**-*National Center for Theoretical Sciences*, Jun 2023
@@ -21,6 +22,7 @@ TBD-->
 TBD-->
 
 ## Scholarships and Awards
+- **Chow Hung-Ching Scholarship**, Sec 2024 - Jun 2025
 - **Hu Dun Fu Memorial Scholarship**, Mar 2024 - Jun 2024
 - **Undergraduates Student Outstanding Thesis Award**-*The Mathematical Society of the Republic of China*, 2024
 - **Dean’s Award of College of Science**-*Natioanl Taiwan University*, 2023
