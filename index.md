@@ -8,7 +8,7 @@ I am a second-year master's student in the Department of Mathematics at [Nationa
 ## Research Interests
 I am now enjoying differential geometry, geometric analysis, and metric geometry. My main research interest is geometry flows and their topological applications, especially Ricci flow. During my bachelor's degree, I also studied free probability theory and random matrix theory and discovered some achievements.
 ## CV
-This is my [CV](/CV.p).
+This is my [CV](/CV.pdf).
 
 <!--## Publications and Preprints
 TBD-->
