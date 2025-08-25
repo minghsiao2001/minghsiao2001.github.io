@@ -4,7 +4,7 @@ title: Welcome to my homepage!
 author_profile: true
 ---
 ## About Me
-I am a second-year master's student in the Department of Mathematics at [National Taiwan University](https://www.ntu.edu.tw/english/). My advisor is Professor [Yng-Ing Lee](https://www.math.ntu.edu.tw/en/entity_people/entity_people/21459). After this semester, I will serve as a research assistant at [NCTS](https://ncts.ntu.edu.tw/index.php). 
+I am a research assistant at [NCTS](https://ncts.ntu.edu.tw/people_detail.php?gid=465&bgid=8) now, with my mentor [Yng-Ing Lee](https://www.math.ntu.edu.tw/en/entity_people/entity_people/21459). Before that, I completed my master's degree in the Department of Mathematics at [National Taiwan University](https://www.ntu.edu.tw/english/) in June 2025.
 ## Research Interests
 I am now enjoying differential geometry, geometric analysis, and metric geometry. My main research interest is geometry flows and their topological applications, especially Ricci flow. During my bachelor's degree, I also studied free probability theory and random matrix theory and discovered some achievements.
 ## CV
