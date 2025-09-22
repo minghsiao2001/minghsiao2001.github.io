@@ -22,7 +22,7 @@ TBD-->
 TBD-->
 
 ## Scholarships and Awards
-- **Dean's Award of College of Science - Master**-*National Taiwan University*, 2025
+- **Dean's Award of College of Science (Master)**-*National Taiwan University*, 2025
 - **Chow Hung-Ching Scholarship**, Sec 2024 - Jun 2025
 - **Hu Dun Fu Memorial Scholarship**, Mar 2024 - Jun 2024
 - **Undergraduates Student Outstanding Thesis Award**-*The Mathematical Society of the Republic of China*, 2024
