@@ -2,6 +2,9 @@
 title: "Invited talks"
 permalink: /talks/
 ---
+- **[28th Taiwan Geometry Symposium](https://sites.google.com/view/28tgsymposium/home?authuser=0)**-*National Sun Yat-sen University*, Nov 2025
+  - Curvature estimates for steady and expanding solitons in higher dimensions
+
 - **[NCTS Differential Geometry Seminar](https://ncts.ntu.edu.tw/events_1_detail.php?nid=2888)**-*NCTS*, Apr 2025 
   - Gap Theorem on Locally Conformally Flat Manifold
 
