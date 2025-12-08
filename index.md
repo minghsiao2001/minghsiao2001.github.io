@@ -23,6 +23,7 @@ TBD-->
 TBD-->
 
 ## Scholarships and Awards
+- **TMS Outstanding Thesis Prize - Gold Medal(Master Thesis Prize)**-*National Chung Cheng University*, 2026
 - **Dean's Award of College of Science (Master)**-*National Taiwan University*, 2025
 - **Chow Hung-Ching Scholarship**, Sec 2024 - Jun 2025
 - **Hu Dun Fu Memorial Scholarship**, Mar 2024 - Jun 2024
