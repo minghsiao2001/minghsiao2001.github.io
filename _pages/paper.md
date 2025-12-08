@@ -4,7 +4,7 @@ permalink: /publish/
 ---
 
 ## Preprints
-1. (with [P.-Y. Chan](https://sites.google.com/view/pychanmath/home))Curvature estimates for steady and expanding solitons in higher dimensions, arXiv: 2512.05625. [[arXiv](https://arxiv.org/abs/2512.05625)]
+1. (with [P.-Y. Chan](https://sites.google.com/view/pychanmath/home)) Curvature estimates for steady and expanding solitons in higher dimensions, arXiv: 2512.05625. [[arXiv](https://arxiv.org/abs/2512.05625)]
 
 1. Rotationally symmetric Ricci Flow on R^n+1, arXiv: 2505.23157. [[arXiv](https://arxiv.org/abs/2505.23157)]
    
