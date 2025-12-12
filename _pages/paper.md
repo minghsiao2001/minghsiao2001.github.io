@@ -3,10 +3,13 @@ title: "Papers and Preprints"
 permalink: /publish/
 ---
 
+## List of publications/accepted papers
+
+1. Rotationally symmetric Ricci Flow on R^n+1, to appear in #J. Geom. Anal.#. [[arXiv](https://arxiv.org/abs/2505.23157)]
+
+
 ## Preprints
 1. (with [P.-Y. Chan](https://sites.google.com/view/pychanmath/home)) Curvature estimates for steady and expanding solitons in higher dimensions, arXiv: 2512.05625. [[arXiv](https://arxiv.org/abs/2512.05625)]
-
-1. Rotationally symmetric Ricci Flow on R^n+1, arXiv: 2505.23157. [[arXiv](https://arxiv.org/abs/2505.23157)]
    
 1. (with [M.-C. Lee](https://sites.google.com/view/mcleemath/research?authuser=0)) Gap Theorem on locally conformally flat manifold, arXiv: 2504.08189. [[arXiv](https://arxiv.org/abs/2504.08189)]
 
