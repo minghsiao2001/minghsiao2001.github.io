@@ -5,7 +5,7 @@ permalink: /publish/
 
 ## List of publications/accepted papers
 
-1. Rotationally symmetric Ricci Flow on R^n+1, to appear in *J. Geom. Anal.*. [[arXiv](https://arxiv.org/abs/2505.23157)]
+1. Rotationally symmetric Ricci Flow on R^n+1, to appear in *J. Geom. Anal*. **36** (2026), Article 66. [[arXiv](https://arxiv.org/abs/2505.23157)] [[Journal](https://link.springer.com/article/10.1007/s12220-025-02301-z)]
 
 
 ## Preprints
