@@ -7,11 +7,11 @@ permalink: /publish/
 
 1. Rotationally symmetric Ricci Flow on R^n+1, *J. Geom. Anal*. **36** (2026), Article 66. [[arXiv](https://arxiv.org/abs/2505.23157)] [[Journal](https://link.springer.com/article/10.1007/s12220-025-02301-z)]
 
+1. (with [M.-C. Lee](https://sites.google.com/view/mcleemath/research?authuser=0)) Gap Theorem on locally conformally flat manifold, arXiv: 2504.08189, to appear in *Comm. Anal. Geom*. [[arXiv](https://arxiv.org/abs/2504.08189)]
+
 
 ## Preprints
 1. (with [P.-Y. Chan](https://sites.google.com/view/pychanmath/home)) Curvature estimates for steady and expanding solitons in higher dimensions, arXiv: 2512.05625. [[arXiv](https://arxiv.org/abs/2512.05625)]
    
-1. (with [M.-C. Lee](https://sites.google.com/view/mcleemath/research?authuser=0)) Gap Theorem on locally conformally flat manifold, arXiv: 2504.08189. [[arXiv](https://arxiv.org/abs/2504.08189)]
-
 ## Miscellaneous
 1. (with [H.-W. Huang](https://sites.google.com/gapp.nthu.edu.tw/freeprobhuang)) Limiting Spectral Distributions of Hadamard Products of GUE matrices, preprint.
