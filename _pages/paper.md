@@ -10,6 +10,9 @@ permalink: /publish/
 1. Rotationally symmetric Ricci Flow on R^n+1, *J. Geom. Anal*. **36** (2026), Article 66. [[arXiv](https://arxiv.org/abs/2505.23157)] [[Journal](https://link.springer.com/article/10.1007/s12220-025-02301-z)]
 
 ## Preprints
+
+1. Steady soliton with \mathcal{L}^{1} decay curvature, arXiv:2604.20224. [[arXiv](https://arxiv.org/abs/2604.20224)]
+
 1. (with [P.-Y. Chan](https://sites.google.com/view/pychanmath/home)) Curvature estimates for steady and expanding solitons in higher dimensions, arXiv: 2512.05625. [[arXiv](https://arxiv.org/abs/2512.05625)]
    
 ## Miscellaneous
