@@ -2,11 +2,15 @@
 title: "Invited talks"
 permalink: /talks/
 ---
+- **[PIMS-NCTS Workshop in Geometric Analysis](https://www.pims.math.ca/events/260622-pnwiga)**-*University of British Columbia*, Jun 2026
+  - Title: Rotationally symmetric Ricci flow
+  - [Slide]() 
+
 - **[28th Taiwan Geometry Symposium](https://sites.google.com/view/28tgsymposium/home?authuser=0)**-*National Sun Yat-sen University*, Nov 2025
-  - Curvature estimates for steady and expanding solitons in higher dimensions
+  - Title: Curvature estimates for steady and expanding solitons in higher dimensions
 
 - **[NCTS Differential Geometry Seminar](https://ncts.ntu.edu.tw/events_1_detail.php?nid=2888)**-*NCTS*, Apr 2025 
-  - Gap Theorem on Locally Conformally Flat Manifold
+  - Title: Gap Theorem on Locally Conformally Flat Manifold
 
 - **[Graduate Student Seminar Series](https://www.slmath.org/seminars/28400/schedules/36657)**-*SLmath Institute*, Oct 2024 [(Video)](https://vimeo.com/1025186992)
   - Title: Preservation of Killing Vector Fields under Ricci Flow
