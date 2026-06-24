@@ -4,7 +4,7 @@ permalink: /talks/
 ---
 - **[PIMS-NCTS Workshop in Geometric Analysis](https://www.pims.math.ca/events/260622-pnwiga)**-*University of British Columbia*, Jun 2026
   - Title: Rotationally symmetric Ricci flow
-  - [Slide]() 
+  - [Slide](/PIMS_NCTS.pdf) 
 
 - **[28th Taiwan Geometry Symposium](https://sites.google.com/view/28tgsymposium/home?authuser=0)**-*National Sun Yat-sen University*, Nov 2025
   - Title: Curvature estimates for steady and expanding solitons in higher dimensions
